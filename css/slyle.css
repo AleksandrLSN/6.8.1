@@ -1,0 +1,36 @@
+#trafficLight {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: black;
+  }
+
+  body {
+    background-color: #f3e9e9;
+    font-size: 25px;
+    text-align: center;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  body {
+    font-family: "Calibri", sans-serif;
+  }
+
+  code {
+    font-style: italic;
+    font-size: 15px;
+  }
+
+  ul {
+    list-style-type: none;
+  }
+
+ #trafficLight {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+}
+
